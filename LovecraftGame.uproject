@@ -31,5 +31,14 @@
 			"Name": "NiagaraFluids",
 			"Enabled": true
 		}
+	],
+	"TargetPlatforms": [
+		"Android",
+		"IOS",
+		"Linux",
+		"Mac",
+		"TVOS",
+		"VisionOS",
+		"Windows"
 	]
 }
